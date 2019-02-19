@@ -1,47 +1,7 @@
-/*==============================================================================
 
- * Template Name: Zuman - Creative Personal Portfolio
- * Template URI: 
- * Author: ixtheme - (https://themeforest.net/user/ixtheme)
- * Description: Personal Portfolio Template
- * Version: 1.0
- * Copyright 2018 ixtheme
-
-
-==============================================================================
-    
-    [Table of CSS contents]
-    ===================
-	
-    01. GOOGLE FONTS
-    02. DEFAULT CSS
-    03. COMMON CSS
-    04. LANDING WRAPPER
-        -- PRELOADER start
-        -- HEADER STYLE start
-        -- LANDING STYLE start
-        -- SOCIAL LINKS STYLE start
-    05. ABOUT WRAPPER
-    06. SERVICE WRAPPER
-    07. WORKS WRAPPER
-    08. COUNTER WRAPPER
-    09. TESTIMONIAL WRAPPER
-    10. CLIENTS WRAPPER
-    11. CONTACT WRAPPER
-        -- FORM Validation style start
-    12. FOOTER WRAPPER
-
-==============================================================================*/
-
-/* ==========================================================================
-    01. GOOGLE FONTS
-========================================================================== */
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
 
-/* ==========================================================================
-    02. DEFAULT CSS
-========================================================================== */
 
 h1,
 h2,
@@ -1243,4 +1203,13 @@ footer p {
 footer p span {
 	color: #fff;
 }
+
+.m-10 {
+    margin-top: 300px;
+}
+
+.m-10 h1 {
+    color: blueviolet;
+}
+
 

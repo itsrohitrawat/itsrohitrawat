@@ -132,8 +132,8 @@ li {
 	content: "";
 	height: 50px;
 	width: 2px;
-	background: rgb(0,123,255);
-	background: linear-gradient(180deg, rgba(0,123,255,1) 0%, rgba(0,123,255,0.05644255993412994) 100%);
+	background: #8a2be2;
+	background: linear-gradient(180deg, #8a2be2 0%, rgba(0,123,255,0.05644255993412994) 100%);
 	left: 50%;
 	margin-left: -6px;
 	z-index: -1;
@@ -149,7 +149,7 @@ li {
 
 .button {
 	padding: 8px 25px 0 25px;
-	background-color: #007bff;
+	background-color: #8a2be2;
 	border: 1px solid transparent;
 	margin-top: 30px;
 	color: #fff;
@@ -375,7 +375,7 @@ header {
 }
 
 .social_links li a:hover {
-    color: #007bff;
+    color: #8a2be2;
 }
 
 .social_links li a:hover span {
@@ -455,7 +455,7 @@ header {
     position: relative;
 }
 
-.about_img .about_img_2.top {
+.about_img .about_img_2{
     top: 70px;
     left: 0;
     transform: scale(1);
@@ -898,7 +898,7 @@ header {
 	display: inline-block;
     font-size: 30px;
     margin-bottom: 20px;
-	background-color: #06386e;
+	background-color: #8a2be2;
 	position: relative;
 	z-index: 1;
 	height: 60px;
@@ -915,7 +915,7 @@ header {
 }
 
 .counter .col-md-3:hover i {
-    background-color: #007bff;
+    background-color: #892be2ee;
 }
 
 .counter i::after {
@@ -1024,8 +1024,8 @@ header {
 }
 
 .testimonial_slider .owl-dots .owl-dot.active {
-    border: 2px solid #007bff;
-	background: #007bff !important;
+    border: 2px solid #8a2be2;
+	background: #8a2be2 !important;
 	width: 33px !important;
 }
 
@@ -1077,7 +1077,7 @@ header {
 	width: 7px;
 	bottom: 7px;
 	left: 0;
-	background: #007bff;
+	background: #8a2be2;
 }
 
 .input_field {
@@ -1096,7 +1096,7 @@ header {
 }
 
 .input_field:focus {
-    border: 1px solid #007bff;
+    border: 1px solid #8a2be2;
 }
 
 textarea.input_field {
@@ -1179,14 +1179,14 @@ footer {
 	left: 50%;
 	margin-left: -25px;
 	line-height: 80px;
-	background: #007bff;
+	background: #892be2e5;
 	text-align: center;
 	z-index: 9;
 	top: -40px;
 }
 
 .go_top:hover {
-    background: #005dc0;
+    background: #8a2be2;
     color: #fff;
 	line-height: 70px;
 }
